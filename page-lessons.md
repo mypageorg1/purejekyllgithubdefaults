@@ -17,5 +17,16 @@ Refers to files within the _layouts directory, that define the markup for your t
     page.html — The layout for your documents that contain FrontMatter, but are not posts.
     post.html — The layout for your posts.
 
+# jekyll config.yml
 
+## github inferences
+title: Your awesome title
+author: GitHub User
+email: your-email@domain.com
+
+were infered in github without need to specify them in git hub
 # netlify
+
+## nothing in _site ?
+
+## no admin folder ? no identity enabled ?
