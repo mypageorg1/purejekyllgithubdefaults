@@ -2,7 +2,7 @@
 layout: page
 ---
 
-# Welcom to yet another page
+# yet another page
 
 frontmatter with layout def , other wise not published  
 
@@ -21,16 +21,22 @@ https://jekyllcodex.org/without-plugin/share-buttons/
 Installation
 
 Step 1. Download the file share-buttons.html
-Step 2. Save the file in the ‘_includes’ directory of your project
-Step 3. Add the following line to your layout on the place where you want the share buttons to appear:
+Step 2. Save the file in the ‘_includes’ directory of your project 
+Step 3. Add the following line to your layout on the place where you want the share buttons to appear:,           brack-percent include share-buttons.html brack-percent
 
-{% include share-buttons.html %}
+
 
 https://raw.githubusercontent.com/jhvanderschee/jekyllcodex/gh-pages/_includes/share-buttons.html
 
 # here it goes
 
 bla
+bla
+bla
+bla
+bla
+bla
+
 
 
 {% if include.pageurl != nil and include.pageurl != '' %}
