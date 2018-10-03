@@ -51,6 +51,9 @@ youtube_username: UCDf_rncabeuc7WcrzqqLCrg
 # googleplus_username: +jekyll
 
 
+title: Your awesome title
+author: GitHub User 4 netlify
+email: your-email-4netlify@domain.com
 
 description: > # this means to ignore newlines until "twitter_username:"
   If i leave "description" empty in config.yaml, it picks up the one frome github
