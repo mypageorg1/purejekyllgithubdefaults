@@ -23,10 +23,9 @@ theme: minimal
 
 # does not work
 #remote_theme: "daattali/beautiful-jekyll"
-remote_theme: "Gaohaoyang/gaohaoyang.github.io"
+#remote_theme: "Gaohaoyang/gaohaoyang.github.io"
 
 #works
-remote_theme: "Gaohaoyang/gaohaoyang.github.io"
 
 # not needed ?
 url: "https://m040601.github.io/purejekyllgithubdefaults"
