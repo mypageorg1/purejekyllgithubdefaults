@@ -31,7 +31,8 @@ theme: minima
 
 
 # not needed ?
-url: "https://m040601.github.io/purejekyllgithubdefaults"
+#url: "https://m040601.github.io/purejekyllgithubdefaults"
+url: https://blissful-lichterman-719649.netlify.com/
 # needed
 baseurl: "/purejekyllgithubdefaults"
 
