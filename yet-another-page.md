@@ -8,11 +8,7 @@ frontmatter with layout def , other wise not published
 
 # sharing tests
 
-Share buttons | Jekyll Codex
-found on
-found on
-found on
-
+## Share buttons | Jekyll Codex
 How it works
 
 The script reads the page.title and the page.url and creates a share link. If the page has a page.image an additional Pinterest button wil be shown. The code is displayed below.
