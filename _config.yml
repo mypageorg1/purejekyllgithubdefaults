@@ -8,19 +8,23 @@
 #    Leap day
 #    Merlot
 #    Midnight
-#    Minima
-#    Minimal
+#    Minima,It's Jekyll's default (and first) theme. It's what you get when you run jekyll new.
+#    Minimal, theme: jekyll-theme-minimal ????
 #    Modernist
 #    Slate
 #    Tactile
 #    Time machine
 
 #theme: minima
+#theme: jekyll-theme-minimal
+theme: minimal
 
 
 
 # does not work
 #remote_theme: "daattali/beautiful-jekyll"
+remote_theme: "Gaohaoyang/gaohaoyang.github.io"
+
 #works
 remote_theme: "Gaohaoyang/gaohaoyang.github.io"
 
