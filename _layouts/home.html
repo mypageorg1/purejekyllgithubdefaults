@@ -6,6 +6,8 @@ list_title: "no not ultimas, letztes"
 {% include share-buttons.html %}
 
 <div class="home">
+  {% include share-buttons.html %}
+
   {%- if page.title -%}
     <h1 class="page-heading">{{ page.title }}</h1>
   {%- endif -%}
@@ -34,5 +36,9 @@ list_title: "no not ultimas, letztes"
     <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
   
   {%- endif -%}
+  {% include share-buttons.html %}
+
 
 </div>
+
+{% include share-buttons.html %}
