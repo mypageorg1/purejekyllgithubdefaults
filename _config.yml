@@ -16,8 +16,8 @@
 #    Time machine
 
 #works
-#theme: minima
-theme: jekyll-theme-minimal
+theme: minima
+#theme: jekyll-theme-minimal
 
 #does not work
 #theme: minimal
