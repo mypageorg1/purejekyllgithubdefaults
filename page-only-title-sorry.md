@@ -1,6 +1,6 @@
 ---
-layout:page
-title: im a page with only title
+layout: page
+title: "im a page with only title"
 ---
 
 
