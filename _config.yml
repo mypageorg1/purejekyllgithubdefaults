@@ -1,6 +1,27 @@
 #theme: jekyll-theme-slate
+
+#GitHub Pages supports the following themes:
+#    Architect
+#    Cayman
+#    Dinky
+#    Hacker
+#    Leap day
+#    Merlot
+#    Midnight
+#    Minima
+#    Minimal
+#    Modernist
+#    Slate
+#    Tactile
+#    Time machine
+
 #theme: minima
+
+
+
+# does not work
 #remote_theme: "daattali/beautiful-jekyll"
+#works
 remote_theme: "Gaohaoyang/gaohaoyang.github.io"
 
 # not needed ?
