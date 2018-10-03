@@ -1,6 +1,6 @@
 #theme: jekyll-theme-slate
-#theme: minima
-remote_theme: "daattali/beautiful-jekyll"
+theme: minima
+#remote_theme: "daattali/beautiful-jekyll"
 # not needed ?
 url: "https://m040601.github.io/purejekyllgithubdefaults"
 # needed
