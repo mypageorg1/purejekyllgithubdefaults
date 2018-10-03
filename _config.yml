@@ -15,17 +15,20 @@
 #    Tactile
 #    Time machine
 
+#works
 #theme: minima
-#theme: jekyll-theme-minimal
-theme: minimal
+theme: jekyll-theme-minimal
+
+#does not work
+#theme: minimal
 
 
+#works
 
 # does not work
 #remote_theme: "daattali/beautiful-jekyll"
 #remote_theme: "Gaohaoyang/gaohaoyang.github.io"
 
-#works
 
 # not needed ?
 url: "https://m040601.github.io/purejekyllgithubdefaults"
