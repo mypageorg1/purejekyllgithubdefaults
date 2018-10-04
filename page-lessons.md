@@ -29,4 +29,4 @@ were infered in github without need to specify them in git hub
 
 ## nothing in _site ?
 
-## no admin folder ? no identity enabled ?
+## no admin folder ? no identity enabled ? no git-gateway enabled ? no netlify.toml ?
