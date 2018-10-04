@@ -1,3 +1,7 @@
+---
+layout: post
+---
+
 Jekyll without plugins | Jekyll Codex
 Plugin-free solutions
 
