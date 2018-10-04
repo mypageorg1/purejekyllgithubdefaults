@@ -17,6 +17,12 @@ Refers to files within the _layouts directory, that define the markup for your t
     page.html — The layout for your documents that contain FrontMatter, but are not posts.
     post.html — The layout for your posts.
 
+
+## on netlify
+
+no title yeslayout -> doesnst appear on the menu
+no layout yes title -> gets published but not formated
+
 # jekyll config.yml
 
 ## github inferences
